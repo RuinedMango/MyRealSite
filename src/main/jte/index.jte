@@ -1,6 +1,6 @@
-<!doctype html>
-
 @param boolean dev
+
+<!doctype html>
 
 <html lang="en">
 	<head>
