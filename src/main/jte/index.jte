@@ -7,7 +7,7 @@
     	<meta charset="UTF-8">
     	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    	<title>New Site</title>
+    	<title>RuinedMango</title>
 
     	@if(dev)
         	<script type="module" src="http://localhost:5173/src/main.ts"></script>
@@ -17,13 +17,14 @@
     	@endif
 	</head>
 
+	<header>
+		<h1 class="text-3xl font-bold p-5">
+			Ruinedmango
+		</h1>
+	</header>
+
 	<body class="min-h-screen bg-zinc-950 text-zinc-100">
     	<main class="mx-auto max-w-5xl px-6 py-16">
-
-        	<h1 class="text-4xl font-bold tracking-tight">
-            	New Site
-        	</h1>
-
         	<p class="mt-4 text-zinc-400">
             	Javalin + JTE + HTMX + Alpine + Tailwind
         	</p>
