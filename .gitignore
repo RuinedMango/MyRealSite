@@ -93,4 +93,14 @@ nb-configuration.xml
 ## JTE
 ##############################
 jte-classes/
-src/main/resources/public/
+
+##############################
+## Local configuration
+##############################
+.env
+.env.local
+
+##############################
+## Local data
+##############################
+data/

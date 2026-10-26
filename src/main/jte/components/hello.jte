@@ -1,4 +1,4 @@
-<!doctype html>
-<p class="rounded-lg border border-zinc-800 bg-zinc-900 p-4 text-green-400">
-    Hello from HTMX!
+<p class="rounded-card border border-wire bg-ash p-4 text-paper">
+    <span class="mr-2 text-signal">●</span>
+    Hello from HTMX! This fragment was rendered by Javalin + JTE.
 </p>
